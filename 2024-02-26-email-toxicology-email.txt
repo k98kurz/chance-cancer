@@ -1,0 +1,17 @@
+Hi,
+
+I am looking for any toxicology data related to the following chemicals and plants/phytochemical extracts:
+- Alpha lipoic acid (R enantiomer and racemic)
+- Hydroxycitrate and/or hydroxycitric acid
+- Annonaceous acetogenins (phytochemicals): annonacin in particular and annonins generally
+- Phytochemical extracts of Annona muricata (soursop/graviola) and Asimina triloba (American pawpaw) -- these are the sources for the annonaceous acetogenins
+
+I can find toxicology data for these chemicals in rodents and humans, but the only toxicology information I have found for non-rodent pets is a few reports of extreme instances of canines consuming large amounts and variously recovering after hospitalization or dying from acute toxicity; I have found no information for felines, mustelids, reptiles, or birds.
+
+These have all been documented in both in vitro and in vivo experiments to have chemotherapeutic effects for cancers exhibiting the metabolic adaptations described by Warburg. Additionally, several clinical cases have been documented for human cancer patients successfully using these to stabilize and inhibit treatment-resistant cancers, and the plants have been used traditionally as food (fruits) and herbal remedies (leaves, bark, roots, seeds). There are some differences in mechanism between the chemicals, but the effect is to inhibit tumor growth and restore apoptosis.
+
+I am hoping to gather enough information to write a series of in vitro and clinical study proposals in pursuit of developing novel chemotherpies in a veterinary medicine context. Any information you can provide will be greatly appreciated. If you would like references to papers I have read so far for this project, I will be happy to provide links.
+
+--
+Cheers,
+Jonathan Voss
