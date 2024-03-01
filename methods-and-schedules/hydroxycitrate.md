@@ -20,14 +20,29 @@ Possible complications related to other ingredients:
     - Add drop of apple cider vinegar to water as preventative measure
     - Add a grain of salt to medical administration if needed
 
-# Dosing schedule
+# Dosing
 
-Each stage except the last will be for one week. The final dose will be
-maintained until the cancer is gone.
+## References
 
-- 2.5 mg/kg bw/day
-- 5 mg/kg bw/day
-- 10 mg/kg bw/day
-- 20 mg/kg bw/day
+### Garcinia cambogia extract alters anxiety, sociability, and dopamine turnover in male Swiss albino mice
+
+Garcinia cambogia dosed at 100 mg/kg and 500 mg/kg. No toxicity noted.
+
+### Therapeutic efficacy and safety of undenatured type-II collagen (UC-II) alone or in combination with ())-hydroxycitric acid and chromemate in arthritic dogs
+
+Hydroxycitric acid well tolerated and non-toxic in dogs at 1800 mg/day. Dog weights were 62-96 pounds (28-44 kg). Dose equivalent was 40-64 mg/kg bw.
+
+### A comprehensive scientific overview of Garcinia cambogia
+
+Note antithelmintic effect can cause heartworm to die. Steroids will be required.
+
+## Schedule
+
+Actual dosing schedule will change to accomodate circumstances.
+
+- Days 01-09: 10 mg extract/day (~1 mg HCA/kg bw/day)
+- Days 10-18: 20 mg extract/day (~2 mg HCA/kg bw/day)
+- Days 19-27: 40 mg extract/day (~4 mg HCA/kg bw/day)
+- Days 28-xx: 60 mg extract/day (~6 mg HCA/kg bw/day)
 
 
