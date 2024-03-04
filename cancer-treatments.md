@@ -239,6 +239,19 @@ https://pubmed.ncbi.nlm.nih.gov/36139697/
 The ongoing rise in the number of cancer cases raises concerns regarding the efficacy of the various treatment methods that are currently available. Consequently, patients are looking for alternatives to traditional cancer treatments such as surgery, chemotherapy, and radiotherapy as a replacement. Medicinal plants are universally acknowledged as the cornerstone of preventative medicine and therapeutic practices. Annona muricata is a member of the family Annonaceae and is familiar for its medicinal properties. A. muricata has been identified to have promising compounds that could potentially be utilized for the treatment of cancer. The most prevalent phytochemical components identified and isolated from this plant are alkaloids, phenols, and acetogenins. This review focuses on the role of A. muricata extract against various types of cancer, modulation of cellular proliferation and necrosis, and bioactive metabolites responsible for various pharmacological activities along with their ethnomedicinal uses. Additionally, this review highlights the molecular mechanism of the role of A. muricata extract in downregulating anti-apoptotic and several genes involved in the pro-cancer metabolic pathways and decreasing the expression of proteins involved in cell invasion and metastasis while upregulating proapoptotic genes and genes involved in the destruction of cancer cells. Therefore, the active phytochemicals identified in A. muricata have the potential to be employed as a promising anti-cancer agent.
 
 
+## An evaluation of the quality of Annona muricata leaf products
+
+https://pubmed.ncbi.nlm.nih.gov/37440207/
+
+Objectives: Annona muricata, also known as graviola, is traditionally used for the treatment of a range of disorders including cancer. Interest in A. muricata use has increased in recent years. This study investigated the quality and safety of a selection of commercially available A. muricata leaf products.
+
+Methods: Seven commercially available products were purchased via online shopping sites. Each product was assessed for quality indicators including weight variation, quantification of the bioactive constituent annonacin, presence of annonaceous acetogenins and contaminants. The samples were evaluated by thin-layer chromatography, high-performance liquid chromatography, liquid chromatography-mass spectroscopy, low-resolution mass spectrometry and nuclear magnetic resonance spectroscopy. Microbial analysis was carried out in accordance with the British Pharmacopoeia. Heavy metals were analysed by inductive coupled plasma mass spectrometry.
+
+Key findings: Of the seven products analysed, one product contained less than half of the content stated on the label. The labelled dosage recommendation varied between products. There was a high variation in annonacin concentration (1.05-3.09 mg/g) and the presence of annonaceous acetogenins. One of the products was found to have a total aerobic microbial count above the United States Pharmacopoeia limit.
+
+Conclusions: The variation in the indicators of quality and safety of commercially available A. muricata leaf products tested have implications for clinicians and people living with cancer who use these herbal products.
+
+
 
 # Treatment 3: mitochondrial complex I inhibitors and ionophores
 
@@ -258,18 +271,6 @@ Metformin does not seem to have the same effects in cats.
 
 https://www.vin.com/apputil/Project/DefaultAdv1.aspx?pId=99&id=2991478
 
-
-## An evaluation of the quality of Annona muricata leaf products
-
-https://pubmed.ncbi.nlm.nih.gov/37440207/
-
-Objectives: Annona muricata, also known as graviola, is traditionally used for the treatment of a range of disorders including cancer. Interest in A. muricata use has increased in recent years. This study investigated the quality and safety of a selection of commercially available A. muricata leaf products.
-
-Methods: Seven commercially available products were purchased via online shopping sites. Each product was assessed for quality indicators including weight variation, quantification of the bioactive constituent annonacin, presence of annonaceous acetogenins and contaminants. The samples were evaluated by thin-layer chromatography, high-performance liquid chromatography, liquid chromatography-mass spectroscopy, low-resolution mass spectrometry and nuclear magnetic resonance spectroscopy. Microbial analysis was carried out in accordance with the British Pharmacopoeia. Heavy metals were analysed by inductive coupled plasma mass spectrometry.
-
-Key findings: Of the seven products analysed, one product contained less than half of the content stated on the label. The labelled dosage recommendation varied between products. There was a high variation in annonacin concentration (1.05-3.09 mg/g) and the presence of annonaceous acetogenins. One of the products was found to have a total aerobic microbial count above the United States Pharmacopoeia limit.
-
-Conclusions: The variation in the indicators of quality and safety of commercially available A. muricata leaf products tested have implications for clinicians and people living with cancer who use these herbal products.
 
 
 # Chlorine dioxide
