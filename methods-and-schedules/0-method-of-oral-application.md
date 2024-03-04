@@ -4,7 +4,8 @@
 2. Carefully measure out each component and add to plastic cup.
 3. Add fresh wet cat food from can to a new plastic cup.
 4. Transfer contents of first cup into second, embedding medicine into wet food.
-5. Affix labeled lid.
+5. Cover with additional wet food.
+6. Affix labeled lid.
 
 
 # Equipment and supplies
@@ -20,6 +21,16 @@
 "Comfy Package Plastic Portion Cups With Lids"
 
 [Source](https://www.amazon.com/gp/product/B01N7W9BUX/)
+
+## Plastic 1ml transfer pippettes
+
+"300PCS 1ml Disposable Plastic Clear Liquid Dropper Transfer Pipette Eye Droppers"
+
+[source](https://www.amazon.com/dp/B07SKV7ZJD)
+
+## Everclear
+
+50% ethanol (100 proof) as solvent from local liquor store.
 
 ## Hydroxycitric acid (HCA): Garcinia cambogia extract (50% HCA by mass)
 
@@ -56,14 +67,12 @@ target value.
 Due to the precision limitations of the scale used, small amounts will
 require a more careful measurement protocol.
 
-1. Measure 2^n mg, where 2 < n.
-2. Transfer the amount measured to a flat, clean surface.
-3. Carefully divide the amount in half.
-4. Repeat step 3 with each amount until equal amounts of approximately the
-correct mass are achieved.
-5. If the correct mass cannot be achieved by division, divide to the highest
-multiple of 2 mg below the target, then add smaller amounts achieved through
-division according to steps 1-4.
+1. Measure some number of mg of the substance (the solute) that is a sum of intended dose greater than 10mg.
+2. Transfer the amount measured to a plastic cup.
+3. Select solvent: water for Annona muricata; Everclear for ALA.
+4. Measure some number of mL that is sufficient to dissolve the solute and be easily meted out in doses.
+5. Thoroughly mix to dissolve.
+6. Measure out a proportion of solution equal to the intended dose divided by the total solute.
 
 
 
