@@ -18,8 +18,8 @@ Possible complications related to other ingredients:
 
 Actual dosing schedule will change to accomodate circumstances.
 
-- Days 07-18: 1 mg/day (~0.2 mg/kg bw/day)
-- Days 16-24: 2 mg/day (~0.4 mg/kg bw/day)
-- Days 25-33: 4 mg/day (~0.8 mg/kg bbw/day)
-- Days 34-xx: 8 mg/day (~1.6 mg/kg bbw/day)
+- Phase 1: 1 mg/day (~0.2 mg/kg bw/day)
+- Phase 2: 2 mg/day (~0.4 mg/kg bw/day)
+- Phase 3: 4 mg/day (~0.8 mg/kg bw/day)
+- Phase 4: 8 mg/day (~1.6 mg/kg bw/day)
 

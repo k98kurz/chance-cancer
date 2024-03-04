@@ -32,10 +32,9 @@ Cats are ten times more sensitive to alpha lipoic acid toxicity than dogs. Low d
 
 ## Sechedule
 
-Actual dosing schedule will change to accomodate circumstances.
-
-- Days 04-17: 2 mg/day (~0.5 mg/kg bw/day)
-- Days 18-21: 4 mg/day (~0.8 mg/kg bw/day)
-- Days 22-xx: 8 mg/day (~1.6 mg/kg bw/day)
+- Phase 1: 6 mg/day (~1 mg/kg bw/day)
+- Phase 2: 12 mg/day (~2 mg/kg bw/day)
+- Phase 3: 24 mg/day (~4 mg/kg bw/day)
+- Phase 4: 48 mg/day (~8 mg/kg bw/day)
 
 

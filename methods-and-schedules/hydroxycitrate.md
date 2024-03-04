@@ -40,9 +40,12 @@ Note antithelmintic effect can cause heartworm to die. Steroids will be required
 
 Actual dosing schedule will change to accomodate circumstances.
 
-- Days 01-09: 10 mg extract/day (~1 mg HCA/kg bw/day)
-- Days 10-18: 20 mg extract/day (~2 mg HCA/kg bw/day)
-- Days 19-27: 40 mg extract/day (~4 mg HCA/kg bw/day)
-- Days 28-xx: 60 mg extract/day (~6 mg HCA/kg bw/day)
+- Phase 1: 10 mg extract/day (~1 mg HCA/kg bw/day)
+- Phase 2: 20 mg extract/day (~2 mg HCA/kg bw/day)
+- Phase 3: 30 mg extract/day (~3 mg HCA/kg bw/day)
+- Phase 4: 60 mg extract/day (~6 mg HCA/kg bw/day)
+- Phase 5: 120 mg extract/day (~12 mg HCA/kg bw/day)
+- Phase 6: 180 mg extract/day (~18 mg HCA/kg bw/day)
+- Phase 7: 240 mg extract/day (~24 mg HCA/kg bw/day)
 
 
