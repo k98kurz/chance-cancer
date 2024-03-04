@@ -57,7 +57,10 @@ acetogenins. The goal is to develop and administer a chemotherapy regime
 starting with ALA at a low dose, increasing the dose up to a therapeutic
 level after confirming its nontoxicity, and adding calcium hydroxycitrate
 and extracts of pawpaw or graviola in a similar manner until remission
-occurs. 
+occurs.
+
+Before beginning treatment, Chance weighed about 6kg. Calculations used a
+5kg bodyweight model.
 
 # 2024-02-26
 
@@ -82,5 +85,72 @@ Began work on dosing methods/schedules:
 - [Graviola](methods-and-schedules/annonaceous-acetogenins.md)
 - [Warburg Trap](methods-and-schedules/warburg-trap.md)
 
+# 2024-02-28
+
+Completed initial dosing schedule.
+
+# 2024-02-29
+
+Fed Chance 10 mg Garcinia cambogia with wet food around 9:30pm. No signs of
+adverse effects. The Garcinia cambogia extract came in pill form; I had to
+grind off bits with a steak knife, scoop up the dust/grit, and measure it.
+
+# 2024-03-01
+
+Took Chance to vet in morning for blood test and steroid injection in case
+the anthelmintic effects kill the heartworm and cause problems. (He received
+"Dexamethasone Injectable 2mg/cc/100 ml".) Steroid treatment should be good
+for 5 days, so I decided to change the dose schedule to start the Annona
+muricata before the ALA.
+
+Also decided that dose schedule should be shortened to an increase in all 3
+at the same time instead of one at a time after initial introduction. The new
+protocol will be to revert to the previous dosage if a blood test shows signs
+of organ stress and continue backtracking until the blood tests are good again,
+then go one at a time with the dose increases to find the maximum tolerated
+dose of each (assuming it is below the expected therapeutic dose).
+
+Found a paper with a report of Garcinia cambogia in cats: 45mg/kg bw/day for
+6 months with no reported adverse effects (8 cats of same breed). Increased
+dose schedule for Garcinia cambogia to target a final dose of 240mg
+(~40mg/kg bw/day) from the original 60mg (~10mg/kg bw/day).
+
+Fed Chance 20mg Garcinia cambogia extract with wet food around 11:50pm. Also
+measured out 31mg and placed in a plastic cup with lid for tomorrow.
+
+Decided that ALA and Annona muricata should be introduced simultaneously to
+further shorten the schedule and save on blood testing costs. Original plan was
+too cautious and not aggressive enough considering the stage of the cancer. If
+the doses do not prove effective, I will increase Annona muricata cautiously
+with further testing.
+
+# 2024-03-02
+
+Reviewed notes on ALA. Therapeutic dose needs to be 8mg/kg BW/day, which is 48mg
+total, not 8mg total. Fixed dosing schedule.
+
+Fed Chance the previously-measured 31mg of Carginia cambogia extract with wet
+food around 10:30pm.
+
+# 2024-03-03
+
+Ground up the remainder of the previously-used Garcinia cambogia with a mortar
+and pestle I acquired yesterday after following the directions for mortar
+prepation (hand wash with light dish soap, air dry, then grind up a small amount of
+rice 5 times, hand wash with light dish soap, then air dry).
+
+Measured the number of drops per mL using 20 plastic transfer pipettes selected at
+random from the box. The result was 28.44 +/-0.49 (95%, t-dist with df=19).
+
+Measured out 13mg Annona muricata extract and mixed into 1mL of Sam's bottled water
+using pipette to both measure and mix. Result was more mixture than solution, and its
+volume was measured as 26 drops using the same pipette. Schedule called for 3 doses of
+1mg, 3 doses of 2mg, and 1 dose of 4mg. These were measured out with drops at 2 drops
+per mg, and the resulting doses were put in plastic cups with lids labeled with
+"A.m. {x}mg" where x was the dose. Unused doses were put in the refrigerator.
+
+Measured 30mg of Garcinia cambogia. Added with a 1mg Annona muricata measured as
+described above to wet food and fed to Chance half an hour past midnight, technically
+on 2024-03-04. (Calibration took longer than I anticipated.)
 
 
