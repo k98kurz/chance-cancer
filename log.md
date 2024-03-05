@@ -153,4 +153,13 @@ Measured 30mg of Garcinia cambogia. Added with a 1mg Annona muricata measured as
 described above to wet food and fed to Chance half an hour past midnight, technically
 on 2024-03-04. (Calibration took longer than I anticipated.)
 
+# 2024-03-04
+Measured 30mg Garcinia cambogia and 6mg ALA (decided to skip the solvent because it is
+not worth the hassle for 3 doses; just measured with scale). Combined with 1mg Annona
+muricata extract dose measured previously. Fed to Chance mixed into wet food a half
+hour after midnight, technically on 2024-03-05. Used an additional drop of filtered
+water to dilute the Annona muricata extract mixture to reduce the amount lost to
+water adhesion.
+
+
 
