@@ -89,6 +89,9 @@ Began work on dosing methods/schedules:
 
 Completed initial dosing schedule.
 
+Email correspondence with Dr. Marianne Kozuch concluded. Her department
+does not have any information useful for this project.
+
 # 2024-02-29
 
 Fed Chance 10 mg Garcinia cambogia with wet food around 9:30pm. No signs of
@@ -169,13 +172,13 @@ additional drop of filtered water to dilute the Annona muricata extract mixture 
 reduce the amount lost to water adhesion.
 
 Prepared future doses for convenience over the next few days:
-2024-03-06: 60mg G.c., 6mg ALA, 2mg A.m.
-2024-03-07: 60mg G.c., 12mg ALA, 2mg A.m.
-2024-03-08: 60mg G.c., 12mg ALA, 2mg A.m.
-2024-03-09: 60mg G.c., 12mg ALA, 4mg A.m.
-2024-03-10: 120mg G.c., 12mg ALA, 4mg A.m.
-2024-03-11: 120mg G.c., 24mg ALA, 4mg A.m.
-2024-03-12: 120mg G.c., 24mg ALA, 6mg A.m.
+- 2024-03-06: 60mg G.c., 6mg ALA, 2mg A.m.
+- 2024-03-07: 60mg G.c., 12mg ALA, 2mg A.m.
+- 2024-03-08: 60mg G.c., 12mg ALA, 2mg A.m.
+- 2024-03-09: 60mg G.c., 12mg ALA, 4mg A.m.
+- 2024-03-10: 120mg G.c., 12mg ALA, 4mg A.m.
+- 2024-03-11: 120mg G.c., 24mg ALA, 4mg A.m.
+- 2024-03-12: 120mg G.c., 24mg ALA, 6mg A.m.
 
 The Annona muricata for 03-06 through 03-09 were previously measured. The remaining
 doses were measured by combining 1mL filtered water with 14mg A.m. extract powder; the
@@ -184,5 +187,4 @@ bring the total number of drops to 28; 2 drops were then used per mg of intended
 
 Doses were combined into wet food in plastic cups labeled with the date and doses, then
 refrigerated.
-
 
