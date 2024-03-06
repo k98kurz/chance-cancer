@@ -161,5 +161,28 @@ hour after midnight, technically on 2024-03-05. Used an additional drop of filte
 water to dilute the Annona muricata extract mixture to reduce the amount lost to
 water adhesion.
 
+# 2024-03-05
+
+Measured 30mg Garcinia cambogia and 6mg ALA. Combined with 1mg Annona muricata extract
+dose measured previously. Fed to Chance mixed into wet food around 11:20pm. Used an
+additional drop of filtered water to dilute the Annona muricata extract mixture to
+reduce the amount lost to water adhesion.
+
+Prepared future doses for convenience over the next few days:
+2024-03-06: 60mg G.c., 6mg ALA, 2mg A.m.
+2024-03-07: 60mg G.c., 12mg ALA, 2mg A.m.
+2024-03-08: 60mg G.c., 12mg ALA, 2mg A.m.
+2024-03-09: 60mg G.c., 12mg ALA, 4mg A.m.
+2024-03-10: 120mg G.c., 12mg ALA, 4mg A.m.
+2024-03-11: 120mg G.c., 24mg ALA, 4mg A.m.
+2024-03-12: 120mg G.c., 24mg ALA, 6mg A.m.
+
+The Annona muricata for 03-06 through 03-09 were previously measured. The remaining
+doses were measured by combining 1mL filtered water with 14mg A.m. extract powder; the
+resulting mixture was measured in drops, and additional filtered water was added to
+bring the total number of drops to 28; 2 drops were then used per mg of intended dose.
+
+Doses were combined into wet food in plastic cups labeled with the date and doses, then
+refrigerated.
 
 
