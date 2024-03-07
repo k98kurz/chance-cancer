@@ -188,3 +188,8 @@ bring the total number of drops to 28; 2 drops were then used per mg of intended
 Doses were combined into wet food in plastic cups labeled with the date and doses, then
 refrigerated.
 
+# 2024-03-06
+
+Fed Chance the medicated wet food previously prepared for today marked "60/6/2 G.c./ALA/A.m."
+around 11:10pm.
+
