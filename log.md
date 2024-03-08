@@ -193,3 +193,9 @@ refrigerated.
 Fed Chance the medicated wet food previously prepared for today marked "60/6/2 G.c./ALA/A.m."
 around 11:10pm.
 
+# 2024-03-07
+
+Fed Chance the medicated wet food previously prepared for today marked "06/12/2 G.c./ALA/A.m."
+just past midnight, technically on the 8th.
+
+
