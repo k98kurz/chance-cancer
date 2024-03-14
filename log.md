@@ -198,4 +198,27 @@ around 11:10pm.
 Fed Chance the medicated wet food previously prepared for today marked "06/12/2 G.c./ALA/A.m."
 just past midnight, technically on the 8th.
 
+# 2024-03-08 through 2024-03-10
+
+I was traveling these days. The cat-sitter followed instructions for feeding medicated food.
+Upon returning, I found only the 2024-03-11 and 2024-03-12 doses left.
+
+# 2024-03-11
+
+Fed Chance the medicated wet food dose for the day labeled "120/24/6 G.c./ALA/A.m." around
+11pm.
+
+# 2024-03-12
+
+Fed Chance the last prepared medicated wet food dose for the day labeled "120/24/6" around
+midnight.
+
+# 2024-03-13
+
+Measured and fed Chance a wet food dose of 180mg G.c., 24mg ALA, and 6mg A.m. around 1am,
+technically on 03-14. Also measured out doses for 2024-03-14 through 2024-03-19, mixed with
+wet food, and placed in the refrigerator in marked plastic cups with matchin label lids.
+Note: the first 4 measurements of A.m. (6, 6, 6, and 8mg) were done dry; the final 3 doses
+were measured by mixing 24mg with filtered water and distributing evenly with drops from a
+transfer pipette.
 
