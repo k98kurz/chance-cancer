@@ -222,3 +222,13 @@ Note: the first 4 measurements of A.m. (6, 6, 6, and 8mg) were done dry; the fin
 were measured by mixing 24mg with filtered water and distributing evenly with drops from a
 transfer pipette.
 
+# 2024-03-14
+
+Fed Chance the wet food dose labeled "2024-03-14 180/24/6" around 11pm.
+
+
+# 2024-03-15
+
+Fed Chance the wet food dose labeled "2024-03-15 180/24/6" around 1:30am, technically on 03-16.
+
+
