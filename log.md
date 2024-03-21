@@ -226,9 +226,28 @@ transfer pipette.
 
 Fed Chance the wet food dose labeled "2024-03-14 180/24/6" around 11pm.
 
-
 # 2024-03-15
 
 Fed Chance the wet food dose labeled "2024-03-15 180/24/6" around 1:30am, technically on 03-16.
 
+# 2024-03-16
+
+Fed Chance the wet food dose labeled "2024-03-16 180/24/8" at 10:50pm.
+
+# 2024-03-17
+
+Fed Chance the wet food dose labeled "2024-03-17 240/24/8" at 9:00pm. Also gave him Onisor 6mg.
+
+# 2024-03-18
+
+Fed Chance the wet food dose labeled "2024-03-18 240/48/8" at 11:30pm. This was the first full
+dose.
+
+# 2024-03-19
+
+Fed Chance the wet food dose labeled "2024-03-19 240/48/8" at 10:20pm.
+
+# 2024-03-20
+
+Measured out another 240/48/8 dose and fed it to Chance mixed into wet food.
 
