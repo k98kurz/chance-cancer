@@ -249,5 +249,30 @@ Fed Chance the wet food dose labeled "2024-03-19 240/48/8" at 10:20pm.
 
 # 2024-03-20
 
-Measured out another 240/48/8 dose and fed it to Chance mixed into wet food.
+Measured out another 240/48/8 dose and fed it to Chance mixed into wet food at 10:35pm.
+
+# 2024-03-21
+
+Took X-rays of Chance's chest cavity at Small Animal Hospital in Fort Myers. No metastasis to
+the lungs was detected. However, Chance did not cooperate with the blood test, so we skipped it.
+
+Measured out another 240/48/8 dose and fed it to Chance mixed into wet food at 11pm.
+
+# 2024-03-22
+
+Measured out another 240/48/8 dose and fed it to Chance mixed into wet food at 10:30pm.
+
+# 2024-03-23
+
+Decided to increase the dose of Annona muricata extract from 8mg to 10mg. Will make further
+increases in the future.
+Measured out a 240/48/10 dose and fed it to Chance mixed into wet food at 11pm.
+
+# 2024-03-24
+
+Measured out another 240/48/10 dose and fed it to Chance mixed into wet food at 9:20pm.
+
+# 2024-03-25
+
+Measured out another 240/48/10 dose and fed it to Chance mixed into wet food at 10:30pm.
 
