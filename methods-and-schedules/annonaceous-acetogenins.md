@@ -22,4 +22,5 @@ Actual dosing schedule will change to accomodate circumstances.
 - Phase 2: 2 mg/day (~0.4 mg/kg bw/day)
 - Phase 3: 4 mg/day (~0.8 mg/kg bw/day)
 - Phase 4: 8 mg/day (~1.6 mg/kg bw/day)
+- Phase 5: 10 mg/day (~2.0 mg/kg bw/day)
 
