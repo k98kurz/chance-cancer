@@ -7,7 +7,11 @@ potentially effective chemotherapies: hydroxycitric acid (from Garcinia
 cambogia), alpha lipoic acid, and annonaceous acetogenins (from Annona muricata
 and Asimina triloba). After finding what information I could about the safety
 of these for consumption by cats, I constructed a dosing schedule and some
-simple methods for measurement and medical application.
+simple methods for measurement and medical application. The dose schedule
+included a safety trial period in which several blood tests were done to ensure
+the non-toxicity of the treatment as the doses were ramped up. Any further
+changes, e.g. to introduce new medicines, will follow a similarly cautious
+procedure.
 
 The log of actions taken, as well as a background narrative, can be found in
 [log.md](https://github.com/k98kurz/chance-cancer/blob/master/log.md). The
