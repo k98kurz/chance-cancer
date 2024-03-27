@@ -276,3 +276,8 @@ Measured out another 240/48/10 dose and fed it to Chance mixed into wet food at 
 
 Measured out another 240/48/10 dose and fed it to Chance mixed into wet food at 10:30pm.
 
+# 2024-03-26
+
+Measured out another 240/48/10 dose and fed it to Chance mixed into wet food at 11:25pm.
+He will fast after midnight in preparation for tomorrow's appointment.
+
