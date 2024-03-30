@@ -281,3 +281,27 @@ Measured out another 240/48/10 dose and fed it to Chance mixed into wet food at 
 Measured out another 240/48/10 dose and fed it to Chance mixed into wet food at 11:25pm.
 He will fast after midnight in preparation for tomorrow's appointment.
 
+# 2024-03-27
+
+Took Chance to UF Small Animal Hospital for an exam and discussion with the surgical
+oncologist. They had a similar case a few months earlier in which all the interventions
+failed. I was told to expect a teleconference with medical oncology in the near future.
+
+Measured another 240/48/10 dose and fed it to Chance mixed into wet food at 11:00pm.
+
+# 2024-03-28
+
+Measured out a 240/48/12 dose and fed it to Chance mixed into wet food at 12:30am, technically
+on the 29th.
+
+# 2024-03-29
+
+Measured out another 240/48/12 dose and fed it to Chance mixed into wet food at 12:40pm,
+technically on the 30th.
+
+# 2024-03-30
+
+Measured out another 240/48/12 dose and mixed it into wet food around 6pm. Left Chance in the
+care of a family member with instructions to feed him between 9pm and 11pm.
+
+
