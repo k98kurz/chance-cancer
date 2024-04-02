@@ -304,4 +304,16 @@ technically on the 30th.
 Measured out another 240/48/12 dose and mixed it into wet food around 6pm. Left Chance in the
 care of a family member with instructions to feed him between 9pm and 11pm.
 
+# 2024-03-31
+
+Measured out a 240/48/14 dose. Fed it to Chance mixed with wet food around 11:20pm.
+
+# 2024-04-01
+
+Measured out another 240/48/14 dose. Fed it to Chance mixed with wet food around 12:10am,
+technically on 04-02.
+
+# 2024-04-02
+
+Measured out 22 doses of 240/48/14 to last through until 04-23.
 
