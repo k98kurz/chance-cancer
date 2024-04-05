@@ -315,5 +315,25 @@ technically on 04-02.
 
 # 2024-04-02
 
-Measured out 22 doses of 240/48/14 to last through until 04-23.
+Measured out 23 doses of 240/48/0 to last through until 04-23. Added 16mg A.m. to one and fed
+to Chance mixed with wet food at 11:55pm.
+
+# 2024-04-03
+
+Added 16mg to one of the 22 remaining doses measured out yesterday and fed it to Chance mixed
+with wet food at 12:55am that night, technically on 04-04.
+
+# 2024-04-04
+
+Added 16mg to each of the 21 remaining doses measured out two days prior and fed one to Chance
+mixed with wet food at midnight, technically on 04-05.
+
+Also weighed 14 Garcinia cambogia extract pills and found that they had a mean mass of 1290.7mg
+and a standard deviation of 37.5mg. (Raw data: 1285, 1304, 1314, 1215, 1239, 1266, 1303, 1333,
+1255, 1337, 1284, 1296, 1346, 1293.)
+
+Left instructions with the caretaker before I began my cross-country journey.
+
+
+
 
