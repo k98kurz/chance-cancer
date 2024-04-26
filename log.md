@@ -334,6 +334,22 @@ and a standard deviation of 37.5mg. (Raw data: 1285, 1304, 1314, 1215, 1239, 126
 
 Left instructions with the caretaker before I began my cross-country journey.
 
+# 2024-04-23
+
+Returned from journey after caretaker had already fed Chance his dose for the day. Caretaker
+said there were no problems getting him to eat his medicated food. I noticed that he seems a
+bit slimmer, and there is one new (or more likely just now noticeable) tumor on the right side
+of the pelvis. Chance moves a bit slower than he did prior to my journey.
+
+# 2024-04-24
+
+Fed Chance the last dose measured prior to the journey. He did not want to eat the whole thing in
+one sitting.
+
+# 2024-04-25
+
+Measured out a 240/48/18 dose and fed it to Chance mixed into his wet food just past midnight,
+technically on 2024-04-26. He struggled to eat it all and left a small amount behind.
 
 
 
