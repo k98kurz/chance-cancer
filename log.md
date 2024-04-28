@@ -351,5 +351,33 @@ one sitting.
 Measured out a 240/48/18 dose and fed it to Chance mixed into his wet food just past midnight,
 technically on 2024-04-26. He struggled to eat it all and left a small amount behind.
 
+# 2024-04-26
+
+Call from UF medical oncology with Dr. Calahan and Dr. Simon.
+
+- Surgery is not a good option
+- Radiation is not very effective for large tumors -- not expected to work for this sarcoma
+- Drugs that may be effective (chemotherapies):
+  - Lomustine (CCNU) -- can be toxic; dose once every 4-6 weeks; closely monitor blood cells (bone marrow suppression)
+    - Can cause some tumor remission for a brief period in a quarter of patients
+    - Tumor growth returns after a few months
+  - Doxorubicin -- given once every 3 weeks; higher percentage of side effects in cats (~20%)
+    - Can cause some tumor remission for a brief period in a quarter of patients
+    - Cat kidneys are especially sensitive
+- Monensin: mostly used for bovine protozoan parasites; used in the past for cat toxoplasma
+- Octreotide: safe to use in cats; used to suppress hormone secretions in some tumors
+  - Reference dosing: every 8 hours (3x a day) for long term hormone secretion suppression (subcutaneous injectable, increase dose over time)
+- Fenofibrate: safe to use in cats; used to treat lipid metabolism disease (upregulates lipases)
+  - Reference dosing (dogs): daily oral application
+- Paliative options for treating the tumors symptomatically as the disease progresses
+- Warburg effect: solid tumors like sarcomas can selectively choose metabolic pathways, but it is different than in human medicine
+- Cellular metabolism is similar, but drug metabolism is different
+  - Basic mechanisms are very similar (mitochondria, electron transport chains, etc)
+  - e.g. cats cannot enzymatically activate prednisone
+  - Some chemotherapies used in dogs cannot be used in cats
+  - Some additional toxicity issues in cats
+  - CCNU is metabolized more slowly in cats than in dogs
+- $400-600 estimated per chemotherapy visit
+- Look up drugs on www.nlm.nih.gov
 
 
