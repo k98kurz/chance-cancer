@@ -380,4 +380,14 @@ Call from UF medical oncology with Dr. Calahan and Dr. Simon.
 - $400-600 estimated per chemotherapy visit
 - Look up drugs on www.nlm.nih.gov
 
+# 2024-04-27
+
+Measured a 240/48/18 dose and fed to Chance mixed into wet food just past midnight, technically
+on 2024-04-28.
+
+# 2024-04-28
+
+Decided to reduce G.c. doses to attempt to combat weight loss.
+Measured out a 220/48/20 dose and fed it to Chance mixed into wet food just past midnight,
+technically on 2024-04-29.
 
