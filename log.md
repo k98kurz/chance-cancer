@@ -406,4 +406,217 @@ Measured a 220/48/20 dose and fed it to Chance mixed into wet food just past mid
 
 Measured a 200/48/22 dose and fed it to Chance mixed into wet food just past midnight.
 
+# 2024-05-02
+
+Measured and fed a 200/48/22 dose.
+
+# 2024-05-03
+
+Measured and fed a 200/48/22 dose.
+
+# 2024-05-04
+
+Began increasing the dose of Annona muricata extract.
+Measured and fed a 200/48/24 dose.
+
+# 2024-05-05
+
+Measured and fed a 200/48/24 dose.
+
+# 2024-05-06
+
+Measured and fed a 200/48/24 dose.
+
+# 2024-05-07
+
+Measured and fed a 200/48/24 dose.
+
+# 2024-05-08
+
+Measured and fed a 200/48/24 dose.
+
+# 2024-05-09
+
+Measured and fed a 200/48/24 dose.
+
+# 2024-05-10
+
+Appetite was still bad; Chance continued struggling to finish his medicated
+food and was still losing weight. Decreased G.c. substantially.
+Measured and fed a 100/48/26 dose.
+
+# 2024-05-11
+
+Measured and fed a 100/48/26 dose.
+
+# 2024-05-12
+
+Measured and fed a 100/48/26 dose.
+
+# 2024-05-13
+
+Measured and fed a 100/48/28 dose.
+
+# 2024-05-14
+
+Measured and fed a 100/48/28 dose.
+
+# 2024-05-15
+
+Measured and fed a 100/48/28 dose.
+
+# 2024-05-16
+
+Measured and fed a 100/48/30 dose.
+
+# 2024-05-17
+
+In the few days in which Chance took a 100mg G.c., his appetite returned somewhat,
+but the tumor size increased dramatically. I decided to restore the previous dose
+and find other ways to stimulate his appetite. Ordered CBD.
+Measured and fed a 200/48/30 dose.
+
+# 2024-05-18
+
+Measured and attempted to feed a 200/48/30 dose using a pipette instead of
+mixing into wet food. Chance aspirated some of the liquid after getting less than
+a third of it, so I measured a 133/32/20 dose and fed it to him mixed into wet food.
+
+# 2024-05-19
+
+Measured and fed a 200/48/32 dose.
+
+# 2024-05-20
+
+Measured and fed a 220/48/32 dose.
+
+# 2024-05-21
+
+Measured and fed a 230/48/32 dose.
+
+# 2024-05-22
+
+Measured and fed a 240/48/32 dose.
+
+# 2024-05-23
+
+Gave Chance an Onisor because he seemed to be in some pain.
+Fed 1/2ml CBDfx at night, then measured and fed a 240/48/34 dose.
+
+# 2024-05-24
+
+Fed 1/2ml CBDfx in the morning.
+Fed 1/2ml CBDfx at night, then measured and fed a 240/48/34 dose.
+
+# 2024-05-25
+
+Fed 1/2ml CBDfx in the morning.
+Fed 1/2ml CBDfx at night, then measured and fed a 240/48/34 dose.
+
+# 2024-05-26
+
+Fed 1/2ml CBDfx in the morning.
+Fed 1/2ml CBDfx at night, then measured and fed a 240/48/34 dose.
+
+# 2024-05-27
+
+Fed 1/2ml CBDfx in the morning.
+Fed 1/2ml CBDfx at night, then measured and fed a 240/48/36 dose.
+
+# 2024-05-28
+
+Fed 1/2ml CBDfx in the morning.
+Fed 1/2ml CBDfx at night, then measured and fed a 240/48/36 dose.
+
+# 2024-05-29
+
+Fed 1/2ml CBDfx in the morning.
+Fed 1/2ml CBDfx at night, then measured and fed a 240/48/36 dose.
+
+# 2024-05-30
+
+Fed 1/2ml CBDfx in the morning.
+Fed 1/2ml CBDfx at night, then measured and fed a 240/48/38 dose.
+
+# 2024-05-31
+
+Fed 1/2ml CBDfx in the morning.
+Fed 1/2ml CBDfx at night, then measured and fed a 240/48/38 dose.
+
+# 2024-06-01
+
+Fed 1/2ml CBDfx in the morning.
+Fed 1/2ml CBDfx at night, then measured and fed a 240/48/38 dose.
+
+# 2024-06-02
+
+Fed 1/2ml CBDfx in the morning.
+Fed 1/2ml CBDfx at night, then measured and fed a 240/48/40 dose.
+
+# 2024-06-03
+
+Fed 1/2ml CBDfx in the morning.
+Fed 1/2ml CBDfx at night, then measured and fed a 240/48/40 dose.
+
+# 2024-06-04
+
+Fed 1/2ml CBDfx in the morning.
+Fed 1/2ml CBDfx at night, then measured and fed a 240/48/40 dose.
+
+# 2024-06-05
+
+Fed 1/2ml CBDfx at night, then measured and fed a 240/48/42 dose.
+
+# 2024-06-06
+
+Fed 1/2ml CBDfx at night, then measured and fed a 240/48/42 dose.
+
+# 2024-06-07
+
+Fed 1/2ml CBDfx at night, then measured and fed a 240/48/42 dose.
+
+# 2024-06-08
+
+Fed 1/2ml CBDfx at night, then measured and fed a 240/48/44 dose.
+
+# 2024-06-09
+
+Fed 1/2ml CBDfx at night, then measured and fed a 240/48/44 dose.
+
+# 2024-06-10
+
+Fed 1/2ml CBDfx at night, then measured and fed a 240/48/44 dose.
+
+# 2024-06-11
+
+Fed 1/2ml CBDfx at night, then measured and fed a 240/48/46 dose.
+Decided to reduce G.c. dose going forward.
+
+# 2024-06-12
+
+Fed 1/2ml CBDfx at night, then measured and tried to feed a 200/48/46 dose.
+Chance refused to eat the medicated wet food, so I put it in the fridge.
+
+# 2024-06-13
+
+Chance refused to eat the last night's medicated wet food in the morning.
+Fed 1/2ml CBDfx at night. Did not attempt to feed medicated food this night.
+
+# 2024-06-14
+
+Took Chance to SAH. The vet said the next step would be a hemipelvic
+amputation if ultrasound showed the sarcoma had not spread across the pelvis
+or infiltrated any organs. I rechecked the right pelvis after returning home
+and found that whatever mass I had felt on 2024-04-23 is gone; however, the
+extent of tumor growth and spread in the left leg and left side of the pelvis
+is catastrophic.
+
+I contacted VCA in West Palm Beach and UF for estimates; VCA provided estimate
+for the ultrasound consultation but did not provide any estimate for surgery or
+euthanasia; UF said they will send estimates on Monday. Also called SAH for an
+estimate and brief explanation of the euthanasia procedure.
+
+Based on the estimate for ultrasound alone, treatment will likely be
+prohibitively expensive. The only options at that point will be to attempt the
+Warburg Trap chemicals (with THC to reduce pain and promote appteite) or euthanasia.
 
