@@ -656,6 +656,9 @@ Gave Chance 1 mL CBD in in the morning.
 Fed Chance a 200/46/46 dose mixed into wet food.
 Chance refused to eat his medicated wet food until the next morning, then ate it
 very slowly.
+Noticed a bleeding sore on the inside of his leg; it appears to be the tumor
+erupting through the skin; began treating topically with rubbing alcohol and
+witch hazel.
 
 # 2024-06-21
 
@@ -675,12 +678,16 @@ Gave Chance 0.7 mL Meloxidyl at 13:00.
 Gave Chance 0.5 mL Elura at 23:45; he was difficult, and Elura went everywhere,
 but he did ingest some amount of it.
 Fed him a 200/46/46 dose of tumor suppressants mixed into wet food.
+Treated the sore with triple antibiotic ointment and attempted to bandage; he
+removed the bandage within a few minutes.
 
 # 2024-06-23
 
 Gave Chance 0.5 mL Meloxidyl at 14:00.
 Gave Chance 0.5 mL Elura at 23:40.
 Fed him a 200/46/46 dose of tumor suppressants mixed into wet food.
+Continued treating the sore topically with witch hazel and antibiotic ointment;
+Chance has learned not to lick it.
 
 # 2024-06-24
 
@@ -760,6 +767,8 @@ Tumor suppressants: 200/44/36; he refused to eat it.
 Gave him 0.1 mL Mexloxidyl at 19:20.
 No Elura.
 WT (monensin/fenofibrate/metformin): 98.5/50/40.
+Noticed the tumor expansion on the outside of the leg had thinned the hair; looked
+like new sores were about to erupt.
 
 # 2024-07-05
 
@@ -781,6 +790,9 @@ took him many hours to eat the 1/4 cup of medicated dry food.
 Gave him 0.1 mL Mexloxidyl at 21:00.
 WT (monensin/fenofibrate/metformin): 236.4/75/50; continued use of ACV in metformin
 soln; continued hesitance and resistance.
+New sores on the outside of the leg; began treating topically with witch hazel.
+Sores do not bleed; the opening looks black and somewhat necrotic, but there is no
+smell.
 
 # 2024-07-08
 
