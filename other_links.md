@@ -121,3 +121,10 @@ https://app.dimensions.ai/details/publication/pub.1014216988
 
 https://app.dimensions.ai/details/publication/pub.1105911538
 
+# Inhibitory effects of monensin on shedding of Toxoplasma oocysts by cats
+
+https://pubmed.ncbi.nlm.nih.gov/7131189/
+
+1982 study used 0.02% monensin concentration in cat food to prevent Toxoplasma oocyst shedding.
+
+
