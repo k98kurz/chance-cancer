@@ -272,6 +272,20 @@ Metformin does not seem to have the same effects in cats.
 https://www.vin.com/apputil/Project/DefaultAdv1.aspx?pId=99&id=2991478
 
 
+## Potent and PPARα-independent anti-proliferative action of the hypolipidemic drug fenofibrate in VEGF-dependent angiosarcomas in vitro
+
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6474884/
+
+Angiosarcomas are highly aggressive tumors of endothelial origin, which carry a poor prognosis. Fenofibrate is a hypolipidemic drug, which acts by activating the transcription factor PPARα. It has also been widely reported to have ‘anti-cancer’ activity. The current study investigated its effect in a murine VEGF-dependent angiosarcoma cell-line, MS1 VEGF. The study utilised assays to monitor cell proliferation and viability, apoptosis, cell cycle progression, mitochondrial membrane potential, changes in protein expression, and changes in miRNA expression using microarrays. Fenofibrate showed potent anti-proliferative action in MS1 VEGF angiosarcoma cells, without inducing apoptosis. It enriched cells in G2/M cell cycle phase and hyperpolarised mitochondria. Other PPARα activators failed to mimic fenofibrate action. Inhibitors of PPARα and NFκB failed to reverse the inhibitory effect of fenofibrate and their combination with fenofibrate was cytotoxic. Fenofibrate downregulated the expression of key VEGF-effector proteins, including Akt, ERK, Bcl-2 and survivin, and a chemical inhibitor screen discovered relevance of these proteins to cell proliferation. A miRNA microarray revealed that fenofibrate differentially regulated cellular miRNAs with known roles in cancer and angiogenesis. The data raise the possibility that fenofibrate could be useful in angiosarcoma therapy, especially considering its well-established clinical safety and tolerability profile.
+
+
+## Investigation of the anticancer mechanism of monensin via apoptosis‐related factors in SH‐SY5Y neuroblastoma cells
+
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10499413/
+
+Monensin is an ionophore antibiotic that inhibits the growth of cancer cells. The aim of this study was to investigate the apoptosis‐mediated anticarcinogenic effects of monensin in SH‐SY5Y neuroblastoma cells. The effects of monensin on cell viability, invasion, migration, and colony formation were determined by XTT, matrigel‐chamber, wound healing, and colony formation tests, respectively. The effects of monensin on apoptosis were determined by real‐time polymerase chain reaction, TUNEL, Western blot, and Annexin V assay. We have shown that monensin suppresses neuroblastoma cell viability, invasion, migration, and colony formation. Moreover, we reported that monensin inhibits cell viability by triggering apoptosis of neuroblastoma cells. Monensin caused apoptosis by increasing caspase‐3, 7, 8, and 9 expressions and decreasing Bax and Bcl‐2 expressions in neuroblastoma cells. In Annexin V results, the rates of apoptotic cells were found to be 9.66 ± 0.01% (p < 0.001), 29.28 ± 0.88% (p < 0.01), and 62.55 ± 2.36% (p < 0.01) in the 8, 16, and 32 μM monensin groups, respectively. In TUNEL results, these values were, respectively; 35 ± 2% (p < 0.001), 34 ± 0.57% (p < 0.001), and 75 ± 2.51% (p < 0.001). Our results suggest that monensin may be a safe and effective therapeutic candidate for treating pediatric neuroblastoma.
+
+
 
 # Chlorine dioxide
 
