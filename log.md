@@ -142,8 +142,9 @@ and pestle I acquired yesterday after following the directions for mortar
 prepation (hand wash with light dish soap, air dry, then grind up a small amount of
 rice 5 times, hand wash with light dish soap, then air dry).
 
-Measured the number of drops per mL using 20 plastic transfer pipettes selected at
-random from the box. The result was 28.44 +/-0.49 (95%, t-dist with df=19).
+Measured the number of drops (H2O) per mL using 20 plastic transfer pipettes
+selected at random from the box. The result was 28.44 +/-0.49 (95%, t-dist with
+df=19).
 
 Measured out 13mg Annona muricata extract and mixed into 1mL of Sam's bottled water
 using pipette to both measure and mix. Result was more mixture than solution, and its
@@ -601,6 +602,7 @@ Chance refused to eat the medicated wet food, so I put it in the fridge.
 
 Chance refused to eat the last night's medicated wet food in the morning.
 Fed 1/2ml CBDfx at night. Did not attempt to feed medicated food this night.
+Did not attempt to feed the G.c.+ALA+A.m. mixture.
 
 # 2024-06-14
 
@@ -619,4 +621,188 @@ estimate and brief explanation of the euthanasia procedure.
 Based on the estimate for ultrasound alone, treatment will likely be
 prohibitively expensive. The only options at that point will be to attempt the
 Warburg Trap chemicals (with THC to reduce pain and promote appteite) or euthanasia.
+
+Did not attempt to feed the G.c.+ALA+A.m. tumor suppressant mixture.
+
+# 2024-06-15
+
+Tumor growth rate noticeably increased after 3 days without G.c.+ALA+A.m.
+Fed Chance a 200/46/46 dose mixed into wet food.
+Gave Chance 1/2 mL CBD.
+
+# 2024-06-16
+
+Fed Chance a 200/46/46 dose mixed into wet food.
+Gave Chance 1/2 mL CBD.
+
+# 2024-06-17
+
+Fed Chance a 200/46/46 dose mixed into wet food.
+Gave Chance 1/2 mL CBD.
+
+# 2024-06-18
+
+Fed Chance a 200/46/46 dose mixed into wet food.
+No CBD this day.
+
+# 2024-06-19
+
+Gave Chance 1 mL CBD in in the morning.
+Fed Chance a 200/46/46 dose mixed into wet food.
+
+# 2024-06-20
+
+Gave Chance 1 mL CBD in in the morning.
+Fed Chance a 200/46/46 dose mixed into wet food.
+Chance refused to eat his medicated wet food until the next morning, then ate it
+very slowly.
+
+# 2024-06-21
+
+Gave Chance 1/2 mL CBD in the morning.
+Got Elura, an appetite stimulant, and Meloxidyl, a NSAID, from the vet.
+Gave Chance 0.5 mL Elura at 21:00; he foamed a little bit; within half an hour,
+he became ravenously hungry and started eating a lot of dry food; I took the
+opportunity to quickly mix up a 200/46/46 dose of tumor suppressants into wet
+food, which he ate; he continued to eat dry food, then stopped and laid down
+with his head in the food bowl, occassionally taking small bites; he remained
+sleepy and slow for the next several hours, but was normal in the morning.
+
+# 2024-06-22
+
+No CBD today.
+Gave Chance 0.7 mL Meloxidyl at 13:00.
+Gave Chance 0.5 mL Elura at 23:45; he was difficult, and Elura went everywhere,
+but he did ingest some amount of it.
+Fed him a 200/46/46 dose of tumor suppressants mixed into wet food.
+
+# 2024-06-23
+
+Gave Chance 0.5 mL Meloxidyl at 14:00.
+Gave Chance 0.5 mL Elura at 23:40.
+Fed him a 200/46/46 dose of tumor suppressants mixed into wet food.
+
+# 2024-06-24
+
+Gave Chance 0.5 mL Meloxidyl at 16:45.
+Gave Chance 0.5 mL Elura at 21:00.
+Fed him a 200/46/46 dose of tumor suppressants mixed into wet food.
+
+# 2024-06-25
+
+Gave Chance 0.1 mL Meloxidyl at 13:40.
+Gave Chance 0.5 mL Elura at 21:50.
+Fed him a 200/46/46 dose of tumor suppressants mixed into wet food.
+
+# 2024-06-26
+
+Gave Chance 0.1 mL Meloxidyl at 14:30.
+Gave Chance 0.5 mL Elura at 03:15 on the 27th.
+Fed him a 200/46/46 dose of tumor suppressants mixed into wet food.
+
+# 2024-06-27
+
+Gave Chance 0.1 mL Meloxidyl at 16:30.
+Gave Chance 0.5 mL Elura at 21:45.
+Fed him a 200/46/46 dose of tumor suppressants mixed into wet food.
+
+# 2024-06-28
+
+Gave Chance 0.1 mL Meloxidyl at 18:40.
+Gave Chance 0.5 mL Elura at 23:59; he spat it up entirely.
+Fed him a 200/46/46 dose of tumor suppressants mixed into wet food.
+
+# 2024-06-29
+
+Measured the number of drops per mL of 75.5% ethanol (Everclear) by taking 10
+measurements with each of 3 plastic transfer pipettes. Result was 50.83+/-0.651
+(95% confidence interval).
+
+Gave Chance 0.1mL Meloxidyl at 16:25.
+Fed him a dose of 200mg G.c., 46mg ALA, and 46mg A.m. mixed into wet food.
+Gave him 0.5mL Elura at 1:20am, technically on the 30th.
+
+# 2024-06-30
+
+First day with the Warburg Trap mix.
+Gave him 0.1 mL Mexloxidyl at 14:35.
+Measured out the WT mix one solution/suspension at a time, letting them dry
+on wet food under a fan: 39.4 ug monensin, 12mg fenofibrate, 10mg metformin;
+fed the medicated dry food at 15:00; he tolerated it well and ate all but
+some crumbs.
+Gave him 0.5 mL Elura at 00:15, technically on 7/1.
+Measured and gave a 200/36/36 dose of tumor suppressants mixed into wet food.
+
+# 2024-07-01
+
+Gave him 0.1 mL Mexloxidyl at 16:50.
+Gave him 0.5 mL Elura at 23:56.
+Prepared and fed dry food with WT mix at 14:50: 78.8 ug monensin, 25mg fenofibrate,
+20mg metformin.
+Measured and gave a 200/36/36 dose of tumor suppressants mixed into wet food.
+
+# 2024-07-02
+
+Gave him 0.1 mL Mexloxidyl at 16:00.
+Gave him 0.5 mL Elura at 23:00; he spat it out.
+WT (monensin/fenofibrate/metformin): 98.5 ug, 50mg, 40mg.
+Tumor suppressants: 200/44/36; he refused to eat it.
+
+# 2024-07-03
+
+Gave him 0.1 mL Mexloxidyl at 16:00.
+Gave him 0.25 mL Elura at 23:00; he really hated it and was very uncooperative.
+WT (monensin/fenofibrate/metformin): 98.5/50/40.
+Tumor suppressants: 200/44/36; he refused to eat it.
+
+# 2024-07-04
+
+Gave him 0.1 mL Mexloxidyl at 19:20.
+No Elura.
+WT (monensin/fenofibrate/metformin): 98.5/50/40.
+
+# 2024-07-05
+
+Gave him 0.1 mL Mexloxidyl at 17:45.
+WT (monensin/fenofibrate/metformin): 197/78/50; gave the metformin solution
+directly since it is just water and not alcohol; Chance hated it more than
+anything else.
+
+# 2024-07-06
+
+Gave him 0.1 mL Mexloxidyl at 21:00.
+WT (monensin/fenofibrate/metformin): 217/75/50; tasted the metformin mix and found
+it was extremely bitter; mixed 0.25ml apple cider vinegar into the 0.5ml soln to
+neutralize bitterness before adding to dry food; Chance was hesitant to eat -- it
+took him many hours to eat the 1/4 cup of medicated dry food.
+
+# 2024-07-07
+
+Gave him 0.1 mL Mexloxidyl at 21:00.
+WT (monensin/fenofibrate/metformin): 236.4/75/50; continued use of ACV in metformin
+soln; continued hesitance and resistance.
+
+# 2024-07-08
+
+Gave him 0.1 mL Mexloxidyl at 19:00.
+WT (monensin/fenofibrate/metformin): 0/0/0. 
+Another tumor growth rate explosion.
+Tumor suppressants: 200/44/37; he ate the wet food.
+
+# 2024-07-09
+
+Gave him 0.1 mL Mexloxidyl at 21:30.
+WT (monensin/fenofibrate/metformin): 0/0/0.
+Tumor suppressants: 200/44/37; he refused to eat the wet food.
+
+# 2024-07-10
+
+Gave him 0.1 mL Mexloxidyl at 21:30.
+WT (monensin/fenofibrate/metformin): 236.4/75/50; continued use of ACV in metformin soln.
+
+# 2024-07-11
+
+Gave him 0.1 mL Mexloxidyl at 02:00 07/12.
+WT (monensin/fenofibrate/metformin): 236.4/75/100; continued use of ACV in metformin soln.
+
 
